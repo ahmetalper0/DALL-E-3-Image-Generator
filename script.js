@@ -60,7 +60,7 @@ button.addEventListener("click", function () {
 
   input.value = "";
 
-  fetch(`https://bcf100d0-03fd-4a16-a728-8612d35e60e5.deepnoteproject.com?prompt=${input_value}`)
+  fetch(`https://b70d1f57-ff0f-400c-ae2d-c949e1de81f2.deepnoteproject.com?prompt=${input_value}`)
     
   .then((response) => response.json())
 
